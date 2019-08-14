@@ -1,5 +1,4 @@
-# ENG01202
-Mecânica Estrutural II (em Português)
+# ENG01202 - Mecânica Estrutural II
 
 ---
 
