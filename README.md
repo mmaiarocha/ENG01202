@@ -1,5 +1,8 @@
 # ENG01202 - Mecânica Estrutural II
 
+_Marcelo M. Rocha, PPGEC/UFRGS_ [(ORCID)](https://orcid.org/0000-0001-5640-1020)
+
+
 ---
 
 01. Introdução à Disciplina. Revisão de propriedades geométricas de seções planas. 
